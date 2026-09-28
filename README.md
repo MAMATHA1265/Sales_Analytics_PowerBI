@@ -226,3 +226,6 @@ Chart: Stacked Column Chart
 2.Region
 3.Product_Category
 4.Year
+
+## Dashboard Preview
+![Power BI Dashboard](Dashboard.png)
